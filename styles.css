@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    background-color: #f1f1f1;
+    font: normal 16px Roboto, sans-serif;
+}
+
+.boxes {
+    width: 30%;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.box {
+    background-color: #fff9dc;
+}
+
+.description {
+    background-color: #e5ffe7
+}
+
+.btn {
+    font: normal 15px Roboto, sans-serif;
+    background-color: aqua;
+    padding: 2px;
+    border-radius: 5px;
+    border-color: lightgray;
+    border-width: 1px;
+}
+
+.btn:hover {
+    background-color: lightpink;
+    cursor: pointer;
+}
+
+.result {
+    font: normal 16px Roboto, sans-serif;
+    margin-bottom: 0px;
+    border-radius: 5px;
+    border-color: lightgray;
+    border-width: 1px;
+}
